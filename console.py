@@ -5,7 +5,6 @@ This module controls all databases.
 Can create, modify and delete instances.
 """
 
-
 from datetime import datetime
 import cmd
 import models
@@ -18,7 +17,6 @@ from models.place import Place
 from models.review import Review
 import re
 import shlex
-
 
 class HBNBCommand(cmd.Cmd):
     """command processor class."""
