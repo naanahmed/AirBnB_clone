@@ -1,11 +1,29 @@
 # AirBnB Clone - The Console
 
+
   
-Welcome to the AirBnB clone project!
+Welcome to the AirBnB clone the console project!!!
+The console is the first segment of the AirBnB project at Holberton School(Alx Software Engineering) that will collectively cover fundamental concepts of higher level programming. 
   
+The goal of AirBnB project is to eventually deploy our server a simple copy of the AirBnB Website(HBnB). A command interpreter is created in this segment to manage objects for the AirBnB(HBnB) website.
 
 ## Getting Started
 
+
+Table of Content
+
+. Environment
+
+. Installation
+
+. File Descriptions
+
+. Usage
+
+. Examples of use
+ 
+ 
+ 
  
 **What’s a command interpreter?**
 
@@ -25,6 +43,7 @@ be able to manage the objects of our project:
 
 - Destroy an object
 
+  
   
 
 ### Learning Objectives
